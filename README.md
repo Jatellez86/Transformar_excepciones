@@ -39,7 +39,7 @@ Este script de Python 🐍 se encarga de procesar un conjunto de datos que conti
 
 ## 👥 Autores
 
-- **Javier Tellez 🙋‍♂️**  (Modificar según corresponda)
+- **Javier Tellez 🙋‍♂️**
 
 ---
 <span style="color:blue">_______________________________________________________________________________________</span>
