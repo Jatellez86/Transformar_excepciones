@@ -1,3 +1,13 @@
+# Importa las bibliotecas necesarias para la transformacion
+# **********************************************************************************************
+#  @Nombre: Transformar excepciones
+#  @Autor: Javier Tellez
+#  @Fecha: 20230410
+#  @Cambios:
+#  @Ayudas:
+# **********************************************************************************************
+#----------------------------------------------------------------------------------------------
+
 import pandas as pd
 import re
 import pyproj
