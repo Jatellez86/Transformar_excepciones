@@ -12,7 +12,6 @@ import pandas as pd
 import re
 import pyproj
 
-# Ejemplo de datos
 # ruta del archivo de excepciones
 datos_excep = pd.read_csv("C:\\Users\\javier.tellez\\Downloads\\Informe_Diario_Excepciones.csv")
 
